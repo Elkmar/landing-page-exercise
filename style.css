@@ -1,0 +1,134 @@
+body,
+html {
+	width: 100%;
+	height: 100%;
+	margin:0;
+	font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+	margin: 1.5vw;
+}
+
+p {
+	margin: 1vw;
+	font-size: 1.2vw;
+	overflow:auto;
+}
+
+footer {
+	background-color: rgb(19, 23, 26);
+	color:white;
+}
+
+.container {
+	margin: 0px;
+}
+
+.card {
+	border: none;
+	background-color: #996C28;
+}
+
+.card-body {
+	height: 60%;
+	max-height: 60%;
+}
+
+.coach-img {
+	width: 15vw;
+	height: auto;
+	border-radius: 50%;
+}
+
+.card-title {
+	font-size: 1.2vw;
+}
+
+.card-text {
+	font-size: 1vw;
+	overflow:scroll;
+}
+
+.testimonial {
+	background-color: #996C28;
+	height: 45%;
+	max-height: 45%
+}
+
+.testimonial-img {
+	width: 10vw;
+	height: auto;
+	border-radius: 50%;
+}
+
+.testimonial-text {
+	font-size: 1vw;
+	overflow:scroll;
+	color:white;
+}
+
+#first-div {
+	background: url(imgs/homepage.jpeg) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#first-homepage-text {
+	color: white;
+	font-size: 5vw;
+	text-shadow: 1px 3px 5px rgba(255,255,255,.77);
+}
+
+#second-homepage-text {
+	color: white;
+	font-size: 3vw;
+	/*text-shadow: 1px 3px 5px rgba(255,255,255,.77);*/
+}
+
+#first-section {
+	background: url(imgs/first.jpg) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#second-section {
+	background-color: rgb(19, 23, 26);
+	color: white;
+}
+
+#header-speech {
+	font-size: 3vw;
+}
+
+#text-speech {
+	font-size: 1.2vw;
+	overflow:auto;
+}
+
+#team {
+	background-color: #996C28;
+	color: white ;
+	height:65%;
+	max-height:65%;
+}
+
+#second-image {
+	background: url(imgs/second.jpeg) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#third-image {
+	background: url(imgs/third.jpg) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
